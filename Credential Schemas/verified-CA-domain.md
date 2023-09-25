@@ -93,8 +93,7 @@ TBA
 
 Below are the requirements for a Registrant to receive a Verified .CA Domain Credential offer by CIRA:
 
-![Signing Up for a Verified  CA Credential (Verified by CIRA)](https://github.com/Northern-Block/CIRA/assets/67612904/f3baa85e-9db7-4944-8b9c-7a31be073e88)
-
+![Signing Up for a Verified  CA Credential (Verified by CIRA) (1)](https://github.com/Northern-Block/CIRA/assets/67612904/daccf68c-c8f1-491b-86a5-dcd2225f814b)
 
 ## 1.11. Revisions
 Version 1.0
