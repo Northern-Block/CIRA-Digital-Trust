@@ -10,7 +10,7 @@ parent: Credential Schemas
 
 ## 1.1. Introduction
 
-The Canadian Internet Registration Authority (CIRA) (French: Autorité canadienne pour les enregistrements internet ACEI) is the organization that manages the .ca country code top-level domain (ccTLD) for Canada. Its offices are located at 979 Bank Street in Ottawa, Ontario, Canada. CIRA sets the policies and agendas that support Canada's internet community and Canada's involvement in international internet governance. It is a member-driven organization with membership open to all that hold a .ca domain. As of March 2023, there were more than 3.3 million active .ca domains.
+The [Canadian Internet Registration Authority (CIRA)](https://www.cira.ca/en/) (French: Autorité canadienne pour les enregistrements internet ACEI) is the organization that manages the .ca country code top-level domain (ccTLD) for Canada. CIRA sets the policies and agendas that support Canada's internet community and Canada's involvement in international internet governance. It is a member-driven organization with membership open to all that hold a .ca domain. As of March 2023, there were more than 3.3 million active .ca domains.
 
 As digital trust technologies evolve, they present Canadians with innovative ways to engage with individuals, organizations, and digital entities online. CIRA aims to capitalize on its authoritative role as the overseer of .CA credentials. By transforming these credentials into machine-readable digital formats, CIRA hopes to offer versatile solutions that enhance protection for Canadians against fraud and cyber threats.
 
