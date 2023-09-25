@@ -91,7 +91,7 @@ TBA
 
 ## 1.10. General Requirements
 
-TBA
+![Signing Up for a Verified .CA Credential (Verified by CIRA)]([https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG](https://drive.google.com/file/d/12_Pjz1a-sg_lEUhzAkMmryzUiVrsfF7K/view?usp=sharing))
 
 ## 1.11. Revisions
 Version 1.0
