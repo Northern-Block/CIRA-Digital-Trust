@@ -1,5 +1,4 @@
-# CIRA
-Anything to do with CIRA projects
+# CIRA Digital Trust
 
 DNS brought trust to the internet by enabling the mapping of human typable/readable/friendly domain names to IP addresses. But in this model, there are a lot of trust assumptions that we make in typing in a domain name into a browser:
 
