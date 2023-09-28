@@ -64,7 +64,7 @@ The contact information for [The Canadian Internet Registration Authority (CIRA)
 
 [Northern Block (NB)](https://northernblock.io/) is the Administering Authority on behalf of CIRA during the pilot phase of development.
 
-The contact information for EMDT is:
+The contact information for Northern Block is:
 * 	**Name:** Mathieu Glaude
 * 	**Title:** CEO
 * 	**Organization:** Northern Block Inc.
