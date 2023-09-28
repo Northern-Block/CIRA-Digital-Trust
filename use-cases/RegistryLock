@@ -1,1 +1,11 @@
-TBA
+Registry Lock is a security feature implemented by CIRA within their Fury Oracle-based system  to help .ca registrants mitigate the risk of ‘domain name hijacking’.
+
+Other countries have similar products in place. In Singapore, .SG registrants can use their Singpass digital identity application in order to access the SG Registry Lock Portal to enable/disable their domains. See here:
+
+
+https://verifiedid.sgnic.sg/
+
+SingPass federates the log in function into SGnic. 
+
+Rather than federating a log in function, CIRA would be looking to leverage digital credentials for the same function. A registrant that holds both  ‘Verified Person’ and  ‘Verified .CA Domain’ digital credentials can use these as proofs to enter the system and enable/disable their domain
+
