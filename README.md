@@ -1,5 +1,7 @@
 # CIRA Digital Trust
 
+![Large](https://github.com/Northern-Block/CIRA-Digital-Trust/assets/67612904/8485cdad-0b8e-40bb-aab8-55affdaf63ec)
+
 DNS brought trust to the internet by enabling the mapping of human typable/readable/friendly domain names to IP addresses. But in this model, there are a lot of trust assumptions that we make in typing in a domain name into a browser:
 
 1. Correct Mapping: We trust that the Domain Name System (DNS) correctly maps the domain name to the correct IP address. This means that when we type in a domain name, we trust that we are being directed to the correct server and not being redirected to a malicious site.
