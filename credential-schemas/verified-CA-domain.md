@@ -162,3 +162,18 @@ BCovrin Test | TBD | --- | ---
 TBD
 
 # End of Document
+
+# Backlog (Info to add into document)
+
+- How the Revocation process will work
+- Only data received from ID proofing (update sequence diagram)
+ID Check:
+- DL: Name address, (compare against WHOIS)
+- Self-attested: Email
+- Passport – CPR confirmation
+
+- There's a requirement that the domain owner need to be transparent, and not privacy anonymized (also add into UI disclosure)
+
+- Managing multiple domains
+- Update schema for multiple domains (actor) – update schema doc
+
