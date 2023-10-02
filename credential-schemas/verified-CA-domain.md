@@ -93,7 +93,7 @@ TBA
 
 Below are the requirements for a Registrant to receive a Verified .CA Domain Credential offer by CIRA:
 
-![Signing Up for a Verified  CA Credential (Verified by CIRA) (1)](https://github.com/Northern-Block/CIRA-Digital-Trust/assets/67612904/50ef9f3f-998f-4ce5-8592-735cdbff509c)
+![Signing Up for a Verified  CA Credential (Verified by CIRA) (2)](https://github.com/Northern-Block/CIRA-Digital-Trust/assets/67612904/32392da4-3f11-429c-9629-589035dacc0b)
 
 
 ## 1.11. Revisions
@@ -166,14 +166,7 @@ TBD
 # Backlog (Info to add into document)
 
 - How the Revocation process will work
-- Only data received from ID proofing (update sequence diagram)
-ID Check:
-- DL: Name address, (compare against WHOIS)
-- Self-attested: Email
-- Passport – CPR confirmation
-
 - There's a requirement that the domain owner need to be transparent, and not privacy anonymized (also add into UI disclosure)
-
 - Managing multiple domains
 - Update schema for multiple domains (actor) – update schema doc
 
