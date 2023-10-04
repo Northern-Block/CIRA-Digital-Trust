@@ -169,4 +169,3 @@ TBD
 - There's a requirement that the domain owner need to be transparent, and not privacy anonymized (also add into UI disclosure)
 - Managing multiple domains
 - Update schema for multiple domains (actor) – update schema doc
-- test
